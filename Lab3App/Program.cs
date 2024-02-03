@@ -24,7 +24,6 @@ namespace Lab3App
             {
                 possibleCollectiable.Add(new Diamond("Diamond"+ i, score: 100));
             }
-
             // One Axe
             possibleCollectiable.Add(new Axe("OnlyAxe"));
 
